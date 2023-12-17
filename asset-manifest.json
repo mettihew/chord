@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chord/static/css/main.ea456c1c.css",
+    "main.js": "/chord/static/js/main.59942804.js",
+    "index.html": "/chord/index.html",
+    "main.ea456c1c.css.map": "/chord/static/css/main.ea456c1c.css.map",
+    "main.59942804.js.map": "/chord/static/js/main.59942804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea456c1c.css",
+    "static/js/main.59942804.js"
+  ]
+}
